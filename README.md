@@ -4,10 +4,10 @@
 This python script helps you retrieve issues from magazines hosted on https://www.openedition.org/
 
 
-1. [Requirements](#Requirements)
-2. [Installation](#Installation)
-3. [Usage](#Usage)
-4. [Example](#Example)
+1. [Requirements](#requirements)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Example](#example)
 
 
 ## Requirements
